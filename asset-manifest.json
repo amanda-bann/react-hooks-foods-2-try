@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-hooks-foods-2-try/static/css/main.254fd809.css",
-    "main.js": "/react-hooks-foods-2-try/static/js/main.27e2c0f8.js",
+    "main.js": "/react-hooks-foods-2-try/static/js/main.4cbe1df3.js",
     "index.html": "/react-hooks-foods-2-try/index.html",
     "main.254fd809.css.map": "/react-hooks-foods-2-try/static/css/main.254fd809.css.map",
-    "main.27e2c0f8.js.map": "/react-hooks-foods-2-try/static/js/main.27e2c0f8.js.map"
+    "main.4cbe1df3.js.map": "/react-hooks-foods-2-try/static/js/main.4cbe1df3.js.map"
   },
   "entrypoints": [
     "static/css/main.254fd809.css",
-    "static/js/main.27e2c0f8.js"
+    "static/js/main.4cbe1df3.js"
   ]
 }
